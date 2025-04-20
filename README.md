@@ -6,7 +6,7 @@ OpenArchX is a deep learning framework designed for efficient model training and
 
 You can reuse your favorite Python packages such as NumPy, SciPy, and Cython to extend OpenArchX when needed.
 
-Our trunk health (Continuous Integration signals) can be found at [your-ci-url](https://example.com).
+Our trunk health (Continuous Integration signals) can be found at [your-ci-url](https://tnsaai.com/).
 
 <!-- toc -->
 
@@ -39,15 +39,15 @@ Our trunk health (Continuous Integration signals) can be found at [your-ci-url](
 
 ## More About OpenArchX
 
-[Learn the basics of OpenArchX](https://oax.tnsaai.com/#Examples)
+[Learn the basics of OpenArchX](https://oax.tnsaai.com/#examples)
 
 At a granular level, OpenArchX is a library that consists of the following components:
 
 | Component | Description |
 | ---- | --- |
-| [**Tensor**](https://example.com/tensor) | A Tensor library like NumPy, with strong GPU support |
-| [**Autograd**](https://example.com/autograd) | A tape-based automatic differentiation library that supports all differentiable Tensor operations |
-| [**Neural Networks**](https://example.com/nn) | A neural networks library deeply integrated with autograd designed for maximum flexibility |
+| [**Tensor**](https://oax.tnsaai.com/) | A Tensor library like NumPy, with strong GPU support |
+| [**Autograd**](https://oax.tnsaai.com/) | A tape-based automatic differentiation library that supports all differentiable Tensor operations |
+| [**Neural Networks**](oax.tnsaai.com/) | A neural networks library deeply integrated with autograd designed for maximum flexibility |
 
 Usually, OpenArchX is used either as:
 
@@ -124,20 +124,20 @@ docker run --gpus all --rm -ti --ipc=host yourusername/openarchx:latest
 ## Getting Started
 
 Three pointers to get you started:
-- [Tutorials: get you started with understanding and using OpenArchX](https://example.com/tutorials)
-- [Examples: easy to understand OpenArchX code across all domains](https://github.com/yourusername/OpenArchX/examples)
-- [The API Reference](https://example.com/docs)
+- [Tutorials: get you started with understanding and using OpenArchX](https://oax.tnsaai.com/#examples)
+- [Examples: easy to understand OpenArchX code across all domains](https://oax.tnsaai.com/#examples)
+- [The API Reference]()
 
 ## Resources
 
-* [OpenArchX Documentation](https://example.com/docs)
-* [OpenArchX Tutorials](https://example.com/tutorials)
-* [OpenArchX Examples](https://github.com/yourusername/OpenArchX/examples)
+* [OpenArchX Documentation](https://oax.tnsaai.com/)
+* [OpenArchX Tutorials](https://oax.tnsaai.com/)
+* [OpenArchX Examples](https://oax.tnsaai.com/)
 
 ## Communication
 
-* Forums: Discuss implementations, research, etc. [OpenArchX Forum](https://example.com/forum)
-* GitHub Issues: Bug reports, feature requests, etc. [OpenArchX Issues](https://github.com/yourusername/OpenArchX/issues)
+* Forums: Discuss implementations, research, etc. [OpenArchX Forum](https://github.com/TnsaAi/OpenArchX/issues)
+* GitHub Issues: Bug reports, feature requests, etc. [OpenArchX Issues](https://github.com/TnsaAi/OpenArchX/issues)
 
 ## Releases and Contributing
 
