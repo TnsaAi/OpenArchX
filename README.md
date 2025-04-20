@@ -39,7 +39,7 @@ Our trunk health (Continuous Integration signals) can be found at [your-ci-url](
 
 ## More About OpenArchX
 
-[Learn the basics of OpenArchX](https://example.com/tutorials)
+[Learn the basics of OpenArchX](https://oax.tnsaai.com/#Examples)
 
 At a granular level, OpenArchX is a library that consists of the following components:
 
