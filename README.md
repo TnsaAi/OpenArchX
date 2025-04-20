@@ -1,4 +1,4 @@
-![OpenArchX Logo](https://raw.githubusercontent.com/TnsaAi/OpenArchX/refs/heads/main/openarchx.png)  <!-- Replace with your logo URL -->
+![OpenArchX Logo](https://raw.githubusercontent.com/TnsaAi/OpenArchX/refs/heads/main/oax_logo.png)  <!-- Replace with your logo URL -->
 
 --------------------------------------------------------------------------------
 
